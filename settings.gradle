@@ -1,0 +1,4 @@
+include ':common'
+include ':protocol'
+include ':app'
+rootProject.name = "Serial-demo-master"
